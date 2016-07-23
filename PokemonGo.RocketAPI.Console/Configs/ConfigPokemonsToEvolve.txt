@@ -1,4 +1,6 @@
 Rattata
+Pidgey
+Weedle
 Spearow
 Ekans
 Pikachu
